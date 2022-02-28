@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Pymmes speech to the Lords in Parliament. Sitting in VVestminster Hall, on the tryall of Thomas Earle of Strafford, the twelfth of Aprill 1641.</title>
+            <author>Pym, John, 1584-1643.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91405</idno>
+            <idno type="STC">Wing P4296A</idno>
+            <idno type="STC">Thomason E196_47</idno>
+            <idno type="STC">ESTC R11469</idno>
+            <idno type="EEBO-CITATION">99859040</idno>
+            <idno type="PROQUEST">99859040</idno>
+            <idno type="VID">157473</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91405)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157473)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E196[47])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Pymmes speech to the Lords in Parliament. Sitting in VVestminster Hall, on the tryall of Thomas Earle of Strafford, the twelfth of Aprill 1641.</title>
+                  <author>Pym, John, 1584-1643.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London Printed :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A condensation of his speech to the Commons on the same day.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Strafford, Thomas Wentworth, --  Earl of, 1593-1641 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament. --  House of Lords. --  Early works to 1800.</term>
+               <term>Treason --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157473:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 133 -->
+            <p>Mr. <hi>Pymmes</hi> SPEECH TO THE LORDS in Parliament.</p>
+            <p>Sitting in VVeſt<g ref="char:EOLhyphen"/>minſter Hall, on the tryall of <hi>Thomas Earle</hi> of <hi>Strafford,</hi> the twelfth of Aprill 1641.</p>
+            <p>London Printed, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:157473:2"/>
+            <!-- PDF PAGE 134 -->
+            <pb n="1" facs="tcp:157473:2"/>
+            <!-- PDF PAGE 134 -->
+            <head>M<hi rend="sup">r</hi>. <hi>PIMMES</hi> Speech to the Lords in Parliament Sitting in Weſtminſter Hall the twelfth of <hi>Aprill,</hi> 1641.</head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>THere hath beene much time ſpent to prove our Charge, and your Lord<g ref="char:EOLhyphen"/>ſhips have heard my Lord of <hi>Straffords</hi> defence with as much patience. You have alſo heard our evidence ſummed up, whereby wee have proved that he hath by trayterous Words, Councells and Actions, trayterouſly endeavoured to ſubvert the fundamentall Lawes of England and Ireland, and in ſtead thereof to introduce an Arbitrary and ty<g ref="char:EOLhyphen"/>rannicall Government a gainſt Law. This (my Lords) is that poyſonous Arrow that hath tainted his blood, this is that cup of deadly wine that hath intoxicated him.</p>
+            <pb n="2" facs="tcp:157473:3"/>
+            <!-- PDF PAGE 135 -->
+            <p>My Lords, it comes to my ſhare to ſhew you how miſchievous an Act of Treaſon it is by that Law that hee hath appealed unto, which is the ſupreame Law, (to wit) publicke good, for his poſition was this, That <hi>Salus Po<g ref="char:EOLhyphen"/>puli,</hi> is <hi>Suprema Lex.</hi> All Lawes are derived from this as its fountaine, and end here as its proper Center. And thoſe Actions that are oppoſite to this are againſt Law.</p>
+            <p>Firſt, My Lords, It is ſuch an offence, as comprehends all offences, ſuch a treaſon; as comprehends all treaſons.</p>
+            <p>The Earth (My Lords) is a Seminary of all flowers, ſo is this a Seminary of all offences.</p>
+            <p>My Lords, This Law puts a difference be<g ref="char:EOLhyphen"/>twixt good and evill; take away the Law (my Lords) and Nature becomes a Law to it ſelfe. As Pride will be a Law, Luſt will be a Law, Rapine a Law, Treaſon a Law, which Lawes have ruled in <hi>Ireland</hi> ever ſince my Lord came thither.</p>
+            <p>Take away the Kings protection from the people, and you take away the peoples allegi<g ref="char:EOLhyphen"/>ance to the King. Prerogative is the bounds of liberty, &amp; (my Lords) they muſt not con<g ref="char:EOLhyphen"/>teſt one againſt another.</p>
+            <p>My Lords, I beſeech you conſider, yee have all under this cuſtodie; and if you take away this, you take away your goods, liberties and lives.</p>
+            <pb n="3" facs="tcp:157473:3"/>
+            <!-- PDF PAGE 135 -->
+            <p>My Lords he ſaith, that <hi>Ireland</hi> was a con<g ref="char:EOLhyphen"/>quered Nation, why? were not all Nations conquered? <hi>England, Wales,</hi> &amp;c.</p>
+            <p>The next is this, that it is an offence full of danger to the Kings perſon and Crowne, it nouriſheth diſſention and tumults in a people. If you conſider the hiſtories of the Nations under arbitrary government, you ſhall finde them full of cruelty and bloody Maſſacres; yea, if you pleaſe to peruſe our Engliſh hiſto<g ref="char:EOLhyphen"/>ries, you ſhall finde that when Arbitrary go<g ref="char:EOLhyphen"/>vernment was ſet up, how many Kings fell by cruell and bloody hands, which is fearefull to relate.</p>
+            <p>Thirdly, my Lords, it is dangerous to the King, Firſt, in reſpect of his honour, Second<g ref="char:EOLhyphen"/>ly in reſpect of his profit, and thirdly, in re<g ref="char:EOLhyphen"/>ſpect of his greatneſſe: yet all theſe have been put on upon the face of this Treaſon as ſo ma<g ref="char:EOLhyphen"/>ny vizards, can it be (my Lords) for the Kings honour, to have his Miniſters to lay all the fault upon the King? To kill, to impriſon, to uſe Rapine, to levie warre againſt his people, and to ruine the State, and then all theſe diſ<g ref="char:EOLhyphen"/>honourable acts to bee laid on the King? is this for the Kings honour?</p>
+            <p>Secondly, it is contrary to his profit, for if there be not an affectionate ſupply from the people to the King, he can never grow in his revenue.</p>
+            <pb n="4" facs="tcp:157473:4"/>
+            <!-- PDF PAGE 136 -->
+            <p>Nay, this (my Lords) is the Kings moſt certaine Revenue, that iſſues from the affe<g ref="char:EOLhyphen"/>ction of his people, for other Revenue, as Lands, or the like, are ſubiect to many incon<g ref="char:EOLhyphen"/>veniences, to many ſubſtractions and penſi<g ref="char:EOLhyphen"/>ons, but this is free and wholly to himſelfe, theſe foureteene yeares paſt, ſince there hath beene an unhappy ceſſation of Parliamenta<g ref="char:EOLhyphen"/>ry proceedings, the King hath had leſſe Reve<g ref="char:EOLhyphen"/>nue, and it doth him leſſe good.</p>
+            <p>Nay; there hath beene more wanting to the King, than many yeares before. Againe, it is unprofitable, and that is worſe, for the King loſt by it, for it hath coſt him theſe two yeares more then it coſt Queene <hi>Elizabeth</hi> in all her warres in <hi>Ireland</hi> &amp; <hi>Spaine,</hi> yea (I feare) more than is to be repaired in an age.</p>
+            <p>Thirdly, in point of greatneſſe; the world is a ſociety of Kingdoms, and it is not enough for a King to be great at home, but to equall his fellow Princes abroad; nay, to bee above them in honour and Maieſty, in riches and glory.</p>
+            <p>But my Lords, theſe Counſells of late that have beene given his Maieſty, have rendred him contemptible to his enemies, uſeleſſe to his diſtreſſed friends, and had they not beene prevented, in time would have made him un<g ref="char:EOLhyphen"/>capable of any deſigne at home or abroad.</p>
+            <pb n="5" facs="tcp:157473:4"/>
+            <!-- PDF PAGE 136 -->
+            <p>A fourth Conſideration is this, my Lords, it is deſtructive to wealth and valour; it cor<g ref="char:EOLhyphen"/>rupts our peace, and in peace, makes us have the inalignities of Warre: and for wealth, who will venture his goods, life, his liberty in the way of trading and comerce, when hee knowes not upon the returne of it, whether it be his owne or not.</p>
+            <p>Nay, my Lords, it imbaſeth the ſpirits and valour of a Nation, when they muſt ſtand in feare of pilloring, ſcaffolding, and the like puniſhments, it maks men to be of baſe ſpirits.</p>
+            <p>Now my Lords, to imbaſe the Kings coine, if it be but ſix pence or twelve pence, tis Trea<g ref="char:EOLhyphen"/>ſon by the Law, and a man muſt dye for it: what is it then to imbaſe our ſpirits, my Lords? truely it is a matter of great impor<g ref="char:EOLhyphen"/>tance.</p>
+            <p>Fifthly, it doth diſable the King, and makes him unfit to deale with forraigne enemies, for every one thinkes to ſlip his necke out of the collar, when he ſhall be forced to it.</p>
+            <p>The ſixt conſideration is, that it is againſt the Covenant betwixt the King and his peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p>Before, my Lords, I ſpoke of a legall Oath, but now I ſpeake of a perſonall, for we ſweare our allegeance to him, and hee the mainte<g ref="char:EOLhyphen"/>nance of our Lawes to us: he is our husband,
+<pb n="6" facs="tcp:157473:5"/>
+               <!-- PDF PAGE 137 -->and we his wiſe; he is our father, and wee his children: he is to maintaine our liberties, and we his Dignities, and our Duties.</p>
+            <p>And my Lords, <hi>Iustice Thorpe</hi> was condem<g ref="char:EOLhyphen"/>ned and executed, for breaking the Kings Oath: My Lords, he broke not his owne oath, nor did the King breake his oath, and yet for violating that oath, that the King had taken to his Subiects, he ſuffered.</p>
+            <p>Ah what an unfortunate man then is the Priſoner at the Batre, that hath in all his Counſells, in all his words, in all his actions, broken the Kings oath, and as much as in him lay, violently perſwaded the King to counte<g ref="char:EOLhyphen"/>nance him in all his actions?</p>
+            <p>The ſeventh conſideration is this my Lords, it is againſt the end of government, for the end of government is to preſerve men in their eſtates, lives and liberties, but an arbitrary power deſtroyes all this: the end of govern<g ref="char:EOLhyphen"/>ment is to advance vertue and goodneſſe, and to puniſh vice: but this cheriſheth all diſ<g ref="char:EOLhyphen"/>order.</p>
+            <p>Now my Lords, I come to ſhew the vani<g ref="char:EOLhyphen"/>ty of his excuſes, that he hath made for him<g ref="char:EOLhyphen"/>ſelfe.</p>
+            <p>The firſt is the liberty of giving Counſell, being a Counſellor, true my Lords, hee hath this liberty, but its bounded within its liſts,
+<pb n="7" facs="tcp:157473:5"/>
+               <!-- PDF PAGE 137 -->and it muſt bee ſuch Counſell as muſt ſtand with the ſacred Maieſty, and the proſperity and weale of his Subiects, for if Counſell bee bad, it poyſons the Conſciences of Princes, it infects their eares, for all government pro<g ref="char:EOLhyphen"/>ceedes from the Prince, as from a fountaine: now if the fountaine be poyſoned, how can the ſtreames be free?</p>
+            <p>A ſecond ſhift is, that hee hopes your Lordſhips will be carefull to ſecure your po<g ref="char:EOLhyphen"/>ſterity, and not to admit of this as Treaſon.</p>
+            <p>My Lords, I know your Lordſhips will bee carefull to ſecure your ſelves, but by your ver<g ref="char:EOLhyphen"/>tues, not by your vices.</p>
+            <p>The third excuſe is, the goodneſſe of his intentions: truely my Lords, good and evill lye cloſe together, not eaſily to be diſcerned, if they be naturall corruptions, but for Mur<g ref="char:EOLhyphen"/>thers, Adultery, Rapines, and Treaſons, theſe are ſo monſtrous, that they may eaſily bee di<g ref="char:EOLhyphen"/>ſtinguiſhed.</p>
+            <p>And I cannot bee perſwaded that ever hee intended well, that acted ſo ill.</p>
+            <p>The fourth excuſe is the Kings neceſſities.</p>
+            <p>My Lords, this neceſſity came from his owne counſells.</p>
+            <p>A fifth excuſe is, it was for the Kings ho<g ref="char:EOLhyphen"/>nour, and the maintenance of the Kings power.</p>
+            <pb n="8" facs="tcp:157473:6"/>
+            <!-- PDF PAGE 138 -->
+            <p>My Lords, it hath beene declared unto you, that the Kings power doth not extend to any thing againſt Law, by which hee hath ſworne to rule us, and to maintaine our Liberties and priviledges for us, and this hath beene decla<g ref="char:EOLhyphen"/>red by five Parliaments, and alſo will appeare in the caſe of the Petition of Right, and in the caſe of ſhipmoney.</p>
+            <p>A ſixt is, that he adviſed the King to doe it with moderation and reparation.</p>
+            <p>My Lords, this is a contradiction, for there can be no reparation for this.</p>
+            <p>The ſeaventh excuſe is, that no horrid facts did follow his Counſells: truely my Lords, we thanke God, his ſacred Maieſty, and his wiſe Counſell for that, or elſe God knowes what fearefull things would have be fallen us, nor are we free from it as yet</p>
+            <p>To conclude, now my Lords, give me leave to intreate you to conſider the Treaſons ordi<g ref="char:EOLhyphen"/>narily practiſed, when the act is done, they ceaſe, as in killing that noble King of <hi>France,</hi> and the ſeverall plots againſt Queene <hi>Eliza<g ref="char:EOLhyphen"/>beth,</hi> but this Treſon of my Lord of <hi>Straffords,</hi> is a ſtanding Treaſon, which when it had bin done, it had beene permanent from generati<g ref="char:EOLhyphen"/>on to generation.</p>
+            <p>And now my Lords, theſe Lawes that hee would have overthrowne, muſt now bee his
+<pb n="9" facs="tcp:157473:6"/>
+               <!-- PDF PAGE 138 -->Iudges, and he is to bee Iudg'd by law, and that law will have marke enough of it to de<g ref="char:EOLhyphen"/>ſcribe it, for it is a law againſt ſuch as breake the fundamentall law of the Kingdome.</p>
+            <p>And my Lords, give me leave to informe you, that (under favour) this is not to make a new way for blood, nor is the crime of Trea<g ref="char:EOLhyphen"/>ſon in my Lord of <hi>Strafford</hi> the leſſe, becauſe none would venture upon ſuch a horrid Trea<g ref="char:EOLhyphen"/>ſon, in two hundred and forty yeares.</p>
+            <p>But my Lords, for making of our Charge good by Law, as wee have fully proved it by Teſtimony, we muſt reſort to Counſell with the Houſe of Commons, and truſt to your Lordſhips Iuſtice.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
